@@ -1,1 +1,1 @@
-Task 3. The long format
+Task 6. Welcome
