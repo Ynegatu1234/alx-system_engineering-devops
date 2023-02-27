@@ -1,1 +1,1 @@
-14. Copy HTML files
+Task 16. Clean Emacs
