@@ -1,1 +1,1 @@
-Task 17. Tree
+Task 19. File type: School
