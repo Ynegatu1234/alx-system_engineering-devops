@@ -1,1 +1,1 @@
-Create a script that decodes acrostics that use the first letter of each line.
+Task 26. The biggest fan
