@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello u0_a532"
+echo "hello $u0_a532"
